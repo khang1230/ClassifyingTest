@@ -1,0 +1,28 @@
+.testImage1{
+    background-color: rgb(137, 133, 141);
+    width: 96%;
+    border-radius: 15px;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+img{
+    border-radius: 15px;
+}
+
+h5{
+    background-color: azure;
+    height: 25px;
+    padding-top: 6px;
+    border-radius: 15px;
+}
+
+.conclusion{
+    background-color: rgb(104, 179, 190);
+    width: 96%;
+    border-radius: 15px;
+    margin-top: 2900px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 800;
+}
